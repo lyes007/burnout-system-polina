@@ -1,0 +1,3 @@
+# ONNX model will be placed here
+# Run the convert-model.py script to generate burnout_model.onnx
+
